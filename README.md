@@ -76,5 +76,5 @@ https://medium.com/@alex285/why-gnome-on-phones-will-fail-if-succeed-94777faf2af
 
 ## 4. GTK and Libadwaita 
 ### Terrible application icon and mouse cursor themes:
-·	I'm generally of the opinion that tastes and colors cannot be discussed, but even if we compare Adwaita and Breeze at the simplest level, the Adwaita theme looks very old and ugly to the eye. Even as someone who doesn't use Breeze, if I compare the two themes, Breeze definitely looks much more modern. Making everything big and kind of "colorful" doesn't help with normal interfaces you would use on your computer. I bravely can say KDE's QT designs surpasses GNOME's "libadwaita" crap.
+·	I'm generally of the opinion that tastes and colors are indisputable, but even if we compare Adwaita and Breeze at the simplest level, the Adwaita theme looks very old and ugly to the eye. Even as someone who doesn't use Breeze, if I compare the two themes, Breeze definitely looks much more modern. Making everything big and kind of "colorful" doesn't help with normal interfaces you would use on your computer. I bravely can say KDE's QT designs surpasses GNOME's "libadwaita" crap.
 
