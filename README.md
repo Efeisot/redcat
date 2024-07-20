@@ -45,7 +45,7 @@ https://forums.fedoraforum.org/showthread.php?p=1822553
 ### Users as guinea pigs for RHEL:
 ·	Don't forget that RedHat is a for-profit company. Updates that are coming to RHEL first come to Fedora and then to CentOS, so considering that most of their users use Fedora Workstation, which has the default GNOME desktop version, it wouldn't be wrong to say that they are lab rats for RedHat.
 
-https://www.reddit.com/r/Fedora/comments/18wqmzg/comment/kg7d7ww/utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button 
+https://www.reddit.com/r/Fedora/comments/18wqmzg/comment/kg7d7ww/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ### Long boot time:
 ·	Fedora boots much slower than most distributions, including Ubuntu. To tell you my own experience: the minimal Sway system I built with Everything took 53 SECONDS to boot on my system with a Sandisk Ultra 3D Dram SSD, while this time is usually around 10-20 seconds on other distributions. Again, I'm leaving links below to users who have experienced problems with this:
