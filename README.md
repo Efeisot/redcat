@@ -1,7 +1,7 @@
 # RedCat
-![IMG_20240719_045730_387](https://github.com/user-attachments/assets/9d63bfa7-408c-4fd0-93e3-425ace7b0b23)
+[<img src="https://github.com/user-attachments/assets/9d63bfa7-408c-4fd0-93e3-425ace7b0b23" width="380"/>](image.png)
 
-This repository explains why you should avoid Red Hat and the stuff they sponsor/develop, similar to the ManjarNo repository on GitHub.
+**This repository explains why you should avoid Red Hat and the stuff they sponsor/develop, similar to the ManjarNo repository on GitHub.**
 
 ## 1. Red Hat and Red Hat Enterprise Linux
 ### GPL Violation:
